@@ -1,0 +1,19 @@
+h2.intro {
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: underline;
+  color: white;
+  background-color: black;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+p.intro {
+  color: gray;
+  font-style: italic;
+}
+
+img.intro {
+  border: 3px solid pink;
+  width: 50%;
+}
