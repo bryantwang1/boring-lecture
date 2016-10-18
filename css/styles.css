@@ -7,3 +7,10 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.box {
+  background-color: darkorange;
+  margin: 2%;
+  font-weight: bold;
+  border: 1px solid black;
+}
